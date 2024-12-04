@@ -5,7 +5,7 @@
 因为帆哥号被封了，项目没了，后续使用不便就重新弄了一个出来
 
 只是大佬脚本的备份，备份一下防止被封
-dr0n1 （https://github.com/dr0n1/CTFd_auto_deploy）
+dr0n1的[ctfd-auto-deploy](https://github.com/dr0n1/CTFd_auto_deploy)
 
 
 **支持的插件**
