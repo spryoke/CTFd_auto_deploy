@@ -17,7 +17,7 @@
 ```bash
 git clone https://github.com/dr0n1/CTFd_auto_deploy
 chmod 777 install.sh
-./auto_deploy.sh
+./install.sh
 ```
 
 或者
